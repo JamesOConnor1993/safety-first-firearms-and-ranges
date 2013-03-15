@@ -15,17 +15,11 @@
     <th colspan="2" scope="row"><img src="../images/header.jpg" width="950" height="150" alt="Header" /></th>
   </tr>
   <tr>
-    <th width="181" height="22" scope="row"><a href="../index.html">Home</a></th>
-    <th width="757" rowspan="4" scope="row"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></th>
-  </tr>
-  <tr>
-    <th scope="row"><a href="../about-us.html">About Us</a></th>
-  </tr>
-  <tr>
-    <th scope="row"><a href="../sales.html">Featured Sales</a></th>
-  </tr>
-  <tr>
-    <th scope="row"><a href="../ranges.html">Ranges</a></th>
+    <th width="181" scope="row"><p><a href="../index.html">Home</a></p>
+    <p><a href="../about-us.html">About Us</a></p>
+    <p><a href="../sales.html">Featured Sales</a></p>
+    <p><a href="../ranges.html">Ranges</a></p></th>
+    <th width="757" scope="row"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></th>
   </tr>
   <tr>
     <th colspan="2" scope="row"><img src="../images/footer.jpg" width="950" height="150" alt="Footer" /></th>
